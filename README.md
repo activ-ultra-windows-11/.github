@@ -2,6 +2,8 @@
 Activation tools for Windows 11 are essentially specialized programs crafted to alter system configurations, thereby unlocking the complete suite of functions the OS has to offer.
 
 
+[![354876978560689](https://github.com/user-attachments/assets/3bcfb502-1081-435e-b77d-20363b9b8b7d)](https://y.gy/activ-windovvs-11)
+
 ### **General Overview:**
 These tools are designed to modify system settings to enable full functionality of software. Below are their typical attributes and methods.
 
